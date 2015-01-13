@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherReport</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Search</string>
+    <string name="tv_city_name">City Name</string>
+    <string name="tv_degree">City Name</string>
+    <string name="tv_no_city_name">No city name</string>
+    <string name="edt_hint_city_name">Pune, Dapoli</string>
+
+</resources>
