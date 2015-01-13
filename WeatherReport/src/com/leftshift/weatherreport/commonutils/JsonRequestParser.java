@@ -90,6 +90,7 @@ public class JsonRequestParser {
 
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
+			mToastMessage.showToast("No records for such city");
 			e.printStackTrace();
 		}
 		return arrCityWeather;
